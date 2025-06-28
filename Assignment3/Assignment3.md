@@ -3,7 +3,7 @@
 
 ### 1.	The value of numb1 =?
 Let numb1 = 12 
-Numb1 /= 3
+numb1 /= 3
 > Ans: 4
 ### 2.	What does ‘a’ equal?
 Let a = 17 % 4
