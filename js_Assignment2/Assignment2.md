@@ -46,7 +46,11 @@ Note: typeof null returns "object"
 ### 8.	 What is hoisting? Explain with a code e.g.
 > Ans: Hoisting in JavaScript means that variable and function declarations are moved to the top of their scope (function or global) before the code runs. This lets you use them earlier in the code, even before they are written.
 ```js
+greet(); // Output: Hello from the function!
 
+function greet() {
+  console.log("Hello from the function!");
+}
 ```
 ### 9.	 Create a greeting alert. Hint:(use => prompt, variable-message, alert)
 ```js
@@ -76,7 +80,7 @@ let x = "Hello Peter Doe";
 let x = 0;  
 a.	Valid
 b.	Invalid
-> > Ans: Invalid
+>  Ans: Invalid
 ### 3.	Select whether the below JS code is valid or not:
 
 var x = "John Doe";
