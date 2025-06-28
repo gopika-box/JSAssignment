@@ -2,7 +2,7 @@
 ## Assignment 3
 
 ### 1.	The value of numb1 =?
-Let numb1 = 12 
+Let numb1 = 12   
 numb1 /= 3
 > Ans: 4
 ### 2.	What does ‘a’ equal?
